@@ -74,4 +74,4 @@ Dynamic pricing using:
 ---
 
 ### 🔗 Final Submission Link:
-GitHub Repo: [https://github.com/RajatSingh02160/dynamic_pricing_project_sa2025/new/main]
+GitHub Repo: [https://github.com/RajatSingh02160/dynamic_pricing_project_sa2025]
